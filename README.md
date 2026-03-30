@@ -7,13 +7,10 @@ This project analyzes customer shopping behavior using SQL and Power BI to gener
 
 ## The project includes:
 
-Data cleaning and transformation
-
-SQL-based customer segmentation
-
-Exploratory data analysis
-
-Interactive Power BI dashboard
+1. Data cleaning and transformation
+2. SQL-based customer segmentation
+3. Exploratory data analysis
+4. Interactive Power BI dashboard
 
 ## 📂 Project Files
 
