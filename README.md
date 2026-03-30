@@ -26,33 +26,35 @@ Youtube_project.ipynb → Jupyter Notebook for additional analysis
 
 The dataset contains customer-level shopping information including:
 
-Customer ID
-
-Age
-
-Gender
-
-Category
-
-Purchase Amount
-
-Previous Purchases
-
-Payment Method
-
-Location
-
-Review Rating
-
+1. Age
+2. Gender
+3. Item Purchased            
+4. Category
+5. Purchase Amount (USD)     
+6. Location                 
+7. Size                      
+8. Color                     
+9. Season                    
+10. Review Rating           
+11. Subscription Status       
+12. Shipping Type             
+13. Discount Applied          
+14. Promo Code Used           
+15. Previous Purchases        
+16. Payment Method            
+17. Frequency of Purchases
+ 
 ## 🛠️ Tools & Technologies Used
+
+Python (Pandas) – Exploratory Data Analysis
+
+Excel/CSV – Data source format
 
 SQL – Data cleaning, transformation, segmentation
 
 Power BI – Dashboard development & visualization
 
-Python (Pandas, Matplotlib, Seaborn) – Exploratory Data Analysis
 
-Excel/CSV – Data source format
 
 # 📊 Key Analysis Performed
 ## 1️⃣ Customer Segmentation
